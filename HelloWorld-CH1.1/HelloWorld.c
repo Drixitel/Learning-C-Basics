@@ -1,5 +1,5 @@
 #include <stdio.h> //include info about standard lib? 
-  //Comments are written with two forward slashes
+  //Comments are written with two forward slashes or /* */ 
 main()
 { 
 // things within {} are called statements 

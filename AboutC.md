@@ -21,6 +21,12 @@ C Notation<br>
 > printf("arg")<br>
 never supplies a new line character automatically 
 **See example** 
+* `%d` inputs integers 
+>* IN: `printf`("`%d` \t`%d`\n", 4, 56)<br>
+OUT: 4 *tab* 56 
+* `%d` for alignment 
+> e.g.: %`3`d = print the number associated with this call in field 3 digits wide. 
+
 
 ## String Characters 
 * `\t` Tab
@@ -29,3 +35,18 @@ never supplies a new line character automatically
 * `\\` Back slash itself
 
 # Variables & Arithmatic CH1.2
+
+## `int`- Declaration
+> the list of variables that follow `int` are declared integers<br>
+`float` similarly 
+
+## `while` loops 
+> conditons are tested, if true execute, if false end. Same as python.<br>
+Loops once if going thru a list. 
+
+## Multiplication and Division 
+> Consider Cel = 5 * (fahr-32)/ 9<br>
+vs. mult. by 5/9<br>
+`Integer` division **Truncates**<br>
+Not true for `Floats` 
+
