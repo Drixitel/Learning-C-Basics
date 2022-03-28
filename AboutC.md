@@ -28,6 +28,11 @@ OUT: 4 *tab* 56
 > e.g.: %`3`d = print the number associated with this call in field 3 digits wide. 
 
 
+> e.g.: %`3.1f` = 3 digits wide and 1 digit kept after the decimal.<br>
+`f` just means float
+* `%c` - Character 
+* `%s` - String
+
 ## String Characters 
 * `\t` Tab
 * `\b` Backspace
