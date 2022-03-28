@@ -55,3 +55,6 @@ vs. mult. by 5/9<br>
 `Integer` division **Truncates**<br>
 Not true for `Floats` 
 
+
+# The `for` statement CH1.3
+* like `for` loop 
