@@ -58,3 +58,7 @@ Not true for `Floats`
 
 # The `for` statement CH1.3
 * like `for` loop 
+* see e.g. or documentaion for better understanding 
+
+
+# Symbolic Constants CH1.4
