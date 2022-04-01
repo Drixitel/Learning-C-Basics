@@ -63,4 +63,11 @@ Not true for `Floats`
 
 # Symbolic Constants CH1.4
 - `#define` lines 
-> symbolic name or symnbolic constant to be a particular string of characters 
+> symbolic name or symnbolic constant to be a particular string of characters<br>
+Similar to `x = 3` in python<br>
+`#define X` &nbsp;&nbsp;&nbsp; `3`<br>
+Does not contain any equal signs, usually placed at the top of the file. 
+
+
+# Character Input and Output CH1.5
+* 
