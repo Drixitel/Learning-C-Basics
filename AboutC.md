@@ -62,3 +62,5 @@ Not true for `Floats`
 
 
 # Symbolic Constants CH1.4
+- `#define` lines 
+> symbolic name or symnbolic constant to be a particular string of characters 
