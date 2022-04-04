@@ -5,3 +5,6 @@
 - This changes the output file name to Filename.exe 
 - Files are then ran by calling Filename.exe 
 - default is `a.exe`
+
+# There exists an extension for Boolean
+- Boolean follows the 0=F 1=T

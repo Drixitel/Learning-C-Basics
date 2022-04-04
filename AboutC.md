@@ -6,6 +6,10 @@
 
 >() after `main` takes arguments, here `main()` takes no arg. 
 
+> by convention `main()` returns an integer and returning `0` it means it excecuted successfully. If it is not there when you run your code it is then implied working correctly. 
+
+> `return 0` is convention and NEVER SEEN bc FUCK ME that's why. 
+
 ## `#Include<stdio.h>`
 > Tells computer to include info about standard input/output lib
 
@@ -79,5 +83,8 @@ Each line consists of (zero +) characters followed by a newline character
 `getchar` reads the next input character from a `text stream` and returns that as its value.<br>
 `putchar` prints a character each time it is called.
 
-## File Copying Ch1.5.1
+# File Copying Ch1.5.1
+
+- False = 0 
+- True = 1 (any pos value)
 

@@ -33,12 +33,27 @@ main()
 
 
 
-
+/*
 // Copy input to output; 2nd Version
 main()
 {
     int c;
 
     while ((c = getchar()) != EOF)
-        putchar(c); 
+    {
+        putchar(c);
+    }
+    printf("end-of-file reached\n"); // occurs after EOF
+
 }
+*/
+
+
+// Try to show the condition is 0 or 1 
+
+
+
+
+
+
+// print the EOF
