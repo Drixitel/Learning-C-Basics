@@ -70,4 +70,14 @@ Does not contain any equal signs, usually placed at the top of the file.
 
 
 # Character Input and Output CH1.5
-* 
+- Text Stream: 
+> A sequence of characters divided into lines.<br>
+Each line consists of (zero +) characters followed by a newline character
+
+- `getchar` or `putchar`: 
+> C library functions used to read or write characters.<br>
+`getchar` reads the next input character from a `text stream` and returns that as its value.<br>
+`putchar` prints a character each time it is called.
+
+## File Copying Ch1.5.1
+
